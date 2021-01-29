@@ -1,0 +1,10 @@
+To start we need 
+vs code
+npm - node package manager 
+install node.js from wb site 
+we can tell mpm to use the package.json to intall packages 
+run the bellow comand in terminal to install all dependencies defined in package.json
+npm install
+
+this comand is defined package.jason and we can run the app.
+npm start 

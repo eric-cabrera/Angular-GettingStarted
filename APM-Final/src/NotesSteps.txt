@@ -1,0 +1,2 @@
+1) in index.html we difine the <pm-root></pm-root> to hot our application (SPA) single page application
+2) in the appmodule we bootstrap: [AppComponent] our application   

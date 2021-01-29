@@ -52,6 +52,10 @@
             <td>{{ product.releaseDate }}</td>
             <td>{{ product.price | currency:'USD':'symbol':'1.2-2' }}</td>
             <td>
+              <!-- 
+                here the input rating from my nested component receive the product.starRating
+                here we used property binding and we souround it bu brakets the input rating [rating]
+              -->
               <pm-star [rating]='product.starRating'
                        (ratingClicked)='onRatingClicked($event)'>
               </pm-star>

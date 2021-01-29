@@ -1,0 +1,4 @@
+-click f12 to go to chrome developer tools
+-console tab is the first place to look if the page doeb't apear as expected 
+-use the element tab to display the dom element. the dom is loaded into the browser and represnt the the html 
+     as a node tree 
