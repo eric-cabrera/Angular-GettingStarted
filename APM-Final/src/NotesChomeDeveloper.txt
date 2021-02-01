@@ -1,4 +1,10 @@
 -click f12 to go to chrome developer tools
--console tab is the first place to look if the page doeb't apear as expected 
+-console tab is the first place to look if the page doesn't apear as expected 
 -use the element tab to display the dom element. the dom is loaded into the browser and represnt the the html 
      as a node tree 
+- source tap : can be use to debug our code
+  since the angular cli uses webpack our type script files are listed under the  
+  and here we can debug our type script directly 
+  to be able to see the  webpack folder in chrome dev tools 
+  go settings, under Sources, make sure "Enable JavaScript source maps" is checked. 
+  

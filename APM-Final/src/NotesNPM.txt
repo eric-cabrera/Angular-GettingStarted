@@ -8,3 +8,10 @@ npm install
 
 this comand is defined package.jason and we can run the app.
 npm start 
+
+https://getbootstrap.com
+https://fontawesome.com
+
+npm install boostrap font-awesome
+to use boostrap we need to import the .css in the style.css file 
+

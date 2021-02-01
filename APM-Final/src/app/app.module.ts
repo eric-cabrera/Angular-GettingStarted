@@ -33,4 +33,5 @@ declarations are metadata
   ],
   bootstrap: [AppComponent]
 })
+/*the export key world make this class available to other pasts of the app*/
 export class AppModule { }

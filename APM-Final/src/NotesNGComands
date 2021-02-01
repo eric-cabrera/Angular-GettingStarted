@@ -1,0 +1,2 @@
+ng g c products/product-detail  --module appp
+-- int this app i created the products folder manually 
